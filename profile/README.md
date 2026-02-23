@@ -1,6 +1,6 @@
 # Sovren Software
 
-**Sovereign computing.** We build systems that put users in control of their computing environment, identity, and assets.
+Most software extracts value from users. We build software that extends their capability.
 
 ---
 
@@ -8,21 +8,25 @@
 
 ### [Augmentum OS](https://augmentum.computer)
 
-A NixOS-based operating system built around the principle that software should augment human capability — not automate humans out of the loop. Declarative, reproducible, privacy-first.
+NixOS-based operating system for people who want to own their computing environment. Declarative system state, reproducible builds, AI-native services, hardware-verified trust. Ships Summer 2026.
 
 ### [Visage](https://github.com/sovren-software/visage)
 
-Open-source Linux face authentication. A PAM module and enrollment daemon built in Rust, designed for hardware that works — not just hardware that's convenient.
+Linux face authentication via PAM. Persistent daemon, IR camera support, ONNX inference — sub-second warm authentication, no subprocess overhead. The Windows Hello equivalent that runs on real Linux hardware.
 
 ### [MrHaven](https://mrhaven.io)
 
-Non-custodial time vault protocol on Base L2. Programmable USDC transfers with inactivity triggers, beneficiary designation, and on-chain execution. No custodians. No intermediaries.
+Non-custodial USDC time vault on Base L2. Set a schedule or an inactivity threshold — funds reach your designated beneficiaries when conditions are met. No custodian holds your keys. No intermediary takes a cut beyond on-chain execution fees.
 
 ---
 
-## Thesis
+## Why sovereign computing
 
-Every layer of digital life should be under user control: the computing environment, biometric identity, and financial assets. Sovren (from *sovereign*) names this thesis.
+Your OS runs on someone else's update schedule.
+Your biometrics are stored in someone else's database.
+Your assets move through someone else's infrastructure.
+
+We build the alternative: computing, identity, and assets — fully under user control.
 
 ---
 
