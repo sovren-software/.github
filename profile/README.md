@@ -1,32 +1,40 @@
 # Sovren Software
 
-Most software extracts value from users. We build software that extends their capability.
+Sovereign computing. OS + identity + capital — under your control.
 
 ---
 
 ## Products
 
-### [Augmentum OS](https://augmentum.computer)
-
-NixOS-based operating system for people who want to own their computing environment. Declarative system state, reproducible builds, AI-native services, hardware-verified trust. Ships Summer 2026.
-
 ### [Visage](https://github.com/sovren-software/visage)
 
-Linux face authentication via PAM. Persistent daemon, IR camera support, ONNX inference — sub-second warm authentication, no subprocess overhead. The Windows Hello equivalent that runs on real Linux hardware.
+Linux face authentication via PAM. Persistent daemon, ONNX inference on-device, AES-256-GCM at rest, IR emitter support. No cloud. No subprocess overhead. Sub-second warm authentication.
+
+Faster than Howdy on matched hardware. Ships on Ubuntu 24.04 LTS today.
 
 ### [MrHaven](https://mrhaven.io)
 
-Non-custodial USDC time vault on Base L2. Set a schedule or an inactivity threshold — funds reach your designated beneficiaries when conditions are met. No custodian holds your keys. No intermediary takes a cut beyond on-chain execution fees.
+Non-custodial USDC time vault on Base L2. No custodian. No intermediary. No exceptions.
+
+Designed to work identically for human users and autonomous AI agents — no KYC, no approval chain, programmable release conditions enforced at the protocol level.
+
+### [Augmentum OS](https://augmentum.computer)
+
+A sovereign NixOS fleet OS. Declarative system state, reproducible builds, AI inference on-device, hardware-verified trust. Privacy by architecture, not policy.
+
+Private alpha. Coming 2026.
 
 ---
 
-## Why sovereign computing
+## The stack
 
-Your OS runs on someone else's update schedule.
-Your biometrics are stored in someone else's database.
-Your assets move through someone else's infrastructure.
+```
+Augmentum OS  →  sovereign compute
+Visage        →  sovereign identity
+MrHaven       →  sovereign capital
+```
 
-We build the alternative: computing, identity, and assets — fully under user control.
+Three products. One thesis.
 
 ---
 
