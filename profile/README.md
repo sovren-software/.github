@@ -6,9 +6,9 @@ We build software for people who want to own their computing environment — not
 
 ## Products
 
-### [Augmentum OS](https://augmentum.computer)
+### [Esver OS](https://esver.computer)
 
-Most operating systems are environments you work *in*. Augmentum OS is an environment that works *with you*.
+Most operating systems are environments you work *in*. Esver OS is an environment that works *with you*.
 
 It runs a cognitive layer in the background — watching your patterns, learning what slows you down, proposing automation. Not cloud AI phoning home. Local inference, on your hardware, under your terms. The OS asks before it learns. It tells you when it is learning. You can turn it off.
 
@@ -37,9 +37,9 @@ Designed from the ground up for humans and autonomous AI agents equally. An agen
 ## The stack
 
 ```
-Augmentum OS  →  sovereign compute
-Visage        →  sovereign identity
-MrHaven       →  sovereign capital
+Esver OS  →  sovereign compute
+Visage    →  sovereign identity
+MrHaven   →  sovereign capital
 ```
 
 Three products. One thesis: your computing environment, your identity, and your capital — under your control, not someone else's terms.
